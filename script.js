@@ -23,10 +23,10 @@
 
 // ========== Hacker Rank ==========
 //Easy-Rated Hacker Rank Problems:
-https://www.hackerrank.com/challenges/camelcase/problem
-https://www.hackerrank.com/challenges/caesar-cipher-1/problem
-https://www.hackerrank.com/challenges/palindrome-index/problem
-https://www.hackerrank.com/challenges/anagram/problem
+//https://www.hackerrank.com/challenges/camelcase/problem
+//https://www.hackerrank.com/challenges/caesar-cipher-1/problem
+//https://www.hackerrank.com/challenges/palindrome-index/problem
+//https://www.hackerrank.com/challenges/anagram/problem
 
 /* Medium-Rated HackerRank Problems:
 https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem

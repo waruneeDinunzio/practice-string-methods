@@ -86,10 +86,14 @@ const loveManara = "Teo make me do this Menara!"
 // Create a variable called sorryNotSorry, replacing Redux with you know what...
 const sorryAva = "Redux is easier!"
 const sorryNotSorry = "Super confusing!!"
-
+const reduxIs = "Redux id " + sorryNotSorry
+console.log(reduxIs)
 
 // Create a variable called teoWillNotMakeItOnFriday, replacing love with kill :')
 const teoIsSweating = "Ava is going to love Teo."
+const teoWillNotMakeItOnFriday = teoIsSweating.replace("love","kill")
+console.log(teoWillNotMakeItOnFriday)
+
 
 // ===== slice =====
 // The never ending cake...get the analogy?
