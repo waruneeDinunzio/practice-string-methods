@@ -101,6 +101,8 @@ console.log(teoWillNotMakeItOnFriday)
 // Console.log that variable and console.log letsBeReal underneath it...what do you see...never ending cake
 
 const letsBeReal = "Goku is awesome. Gohan is sweet. Trunks is dope too. Let's be real though, Vegeta is the best"
+const sliceLastSentence = letsBeReal.slice(0,75)
+console.log(sliceLastSentence)
 
 // Create your own sentence with your favorite anime/tv show/movie line and extract a portion of it
 
@@ -108,6 +110,7 @@ const letsBeReal = "Goku is awesome. Gohan is sweet. Trunks is dope too. Let's b
 // ===== split =====
 // Separate the sentence by word
 let bananaSplit = "I am not going to split my banana split."
+console.log(bananaSplit.split(' '))
 
 // Separate the setence by characters
 let sixFeetAway = "Per CDC Guidelines, we have to keep six feet away from each other."
